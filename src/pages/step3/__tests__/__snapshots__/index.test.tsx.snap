@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Step 3 Should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bcXHqe bMEgX"
+  >
+    <h1
+      class="sc-eDvSVe koGjPR"
+    >
+      Step 3
+    </h1>
+    <div>
+      <div
+        class="sc-dkrFOg iKbvez"
+      >
+        <div
+          class="sc-hLBbgP kHbnCM"
+        >
+          <label
+            for="dishList"
+          >
+            Please select a dish
+          </label>
+          <select
+            id="dishList"
+            name="dish"
+          >
+            <option
+              disabled=""
+              selected=""
+              value=""
+            >
+              ----
+            </option>
+            <option
+              value="Chicken Burger"
+            >
+              Chicken Burger
+            </option>
+            <option
+              value="Ham Burger"
+            >
+              Ham Burger
+            </option>
+            <option
+              value="Cheese Burger"
+            >
+              Cheese Burger
+            </option>
+            <option
+              value="Fries"
+            >
+              Fries
+            </option>
+          </select>
+        </div>
+        <div>
+          <label
+            for="serving"
+          >
+            Please enter number of serving
+          </label>
+          <input
+            id="serving"
+            max="10"
+            min="3"
+            type="number"
+            value="3"
+          />
+        </div>
+        <hr />
+      </div>
+    </div>
+    <div
+      class="sc-gswNZR hNVRgE"
+    >
+      <button
+        class="sc-jSUZER bqFJJK"
+      >
+        +
+      </button>
+      <button
+        class="sc-jSUZER bqFJJK"
+        disabled=""
+      >
+        -
+      </button>
+    </div>
+    <div>
+      <button
+        class="sc-jSUZER bqFJJK"
+      >
+        Back
+      </button>
+      <button
+        class="sc-jSUZER bqFJJK"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Step 3 Should match the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Review
+    </h1>
+    <dl>
+      <dt>
+        Meal
+      </dt>
+      <dd>
+        dinner
+      </dd>
+      <dt>
+        Guest(s)
+      </dt>
+      <dd>
+        3
+      </dd>
+      <dt>
+        Restaurant
+      </dt>
+      <dd>
+        Mc Donalds
+      </dd>
+      <dt>
+        Fries
+      </dt>
+      <dd>
+        3
+      </dd>
+    </dl>
+    <button
+      class="sc-gswNZR bzVgbG"
+    >
+      Back
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Step 4 Should match the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Review
+    </h1>
+    <dl>
+      <dt>
+        Meal
+      </dt>
+      <dd>
+        dinner
+      </dd>
+      <dt>
+        Guest(s)
+      </dt>
+      <dd>
+        3
+      </dd>
+      <dt>
+        Restaurant
+      </dt>
+      <dd>
+        Mc Donalds
+      </dd>
+      <dt>
+        Fries
+      </dt>
+      <dd>
+        3
+      </dd>
+    </dl>
+    <button
+      class="sc-gswNZR bzVgbG"
+    >
+      Back
+    </button>
+  </div>
+</DocumentFragment>
+`;
