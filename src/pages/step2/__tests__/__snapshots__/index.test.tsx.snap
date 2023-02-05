@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Step 2 Should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bcXHqe bwnVWm"
+  >
+    <h1>
+      Step 2
+    </h1>
+    <div>
+      <label
+        for="restaurantList"
+      >
+        Select a restaurant
+      </label>
+      <select
+        id="restaurantList"
+        name="restaunt"
+      >
+        <option
+          disabled=""
+          selected=""
+          value=""
+        >
+          ----
+        </option>
+        <option
+          value="Mc Donalds"
+        >
+          Mc Donalds
+        </option>
+        <option
+          value="Taco Bell"
+        >
+          Taco Bell
+        </option>
+        <option
+          value="BBQ Hut"
+        >
+          BBQ Hut
+        </option>
+        <option
+          value="Vege Deli"
+        >
+          Vege Deli
+        </option>
+        <option
+          value="Pizzeria"
+        >
+          Pizzeria
+        </option>
+        <option
+          value="Panda Express"
+        >
+          Panda Express
+        </option>
+        <option
+          value="Olive Garden"
+        >
+          Olive Garden
+        </option>
+      </select>
+    </div>
+    <div>
+      <button
+        class="sc-dkrFOg DBrcQ"
+      >
+        Back
+      </button>
+      <button
+        class="sc-dkrFOg DBrcQ"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
